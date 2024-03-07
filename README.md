@@ -21,7 +21,7 @@
 
   just execute node index on your CLI
 
-  ![Screenshot]('screenshot.png')
+  ![Screenshot](screenshot.png)
 
   ## Credits
   
